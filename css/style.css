@@ -1,0 +1,47 @@
+body {
+    font-family: Roboto;
+    background-color: #ffffff;
+} 
+
+.link {
+    color: #4000ff;
+    text-decoration: none;
+}
+
+.container {
+    border-radius: 45px;
+    background-color: beige;
+    padding: 10px;
+    margin: 20px;
+}
+
+.link-li {
+    list-style-type: none;
+    font-size: 25px;
+    margin: 10px;
+}
+
+li {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 700;
+}
+
+.title.subtitle {
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.header .title {
+    color: rgb(16, 16, 16);
+    font-size: 55px;
+}
+
+p {
+    font-size: 20px;
+    font-weight: 400;
+}
